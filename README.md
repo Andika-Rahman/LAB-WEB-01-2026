@@ -41,7 +41,7 @@ git add .
 9. **Commit Perubahan**: Setelah semua tugas sudah ditambah, commit dengan pesan yang deskriptif.
 
 ```bash
-git commit -m "Task 1: HTML as Skeleton"  # Sesuaikan pesan dengan tugas yang kamu kumpulkan
+git commit -m "Tugas Praktikum 1 | H071251nnn"  # Sesuaikan dengan NIM masing-masing
 ```
 
 Note: Untuk cek status file apakah sudah ditambahkan maupun dikomit, bisa dilakukan dengan `git status`
